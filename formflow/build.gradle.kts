@@ -17,7 +17,7 @@ android {
 }
 
 dependencies {
-    implementation("androidx.browser:browser:1.8.0")
+    implementation("androidx.browser:browser:1.10.0")
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
     implementation(platform("androidx.compose:compose-bom:2024.06.00"))
