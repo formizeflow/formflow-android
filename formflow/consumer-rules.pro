@@ -1,0 +1,1 @@
+-keepclassmembers class com.formflow.FormFlowView$Bridge { @android.webkit.JavascriptInterface <methods>; }
